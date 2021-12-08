@@ -1,4 +1,4 @@
-export function getValues() {
+function getValues() {
   let arr = [];
 
   for (let i = 0; i < document.getElementsByTagName("div").length; i++) {
